@@ -1251,10 +1251,10 @@ section.testimonial_main {
   color: #d92626;
 }
 .role {
-  font-size: 16px;
-  color: #888;
-  display: block;
-  margin-bottom: 15px;
+    font-size: 16px;
+    color: #888;
+    display: block;
+    margin: 9px 0px;
 }
 
 .testimonial-card p {
@@ -1527,3 +1527,4 @@ a.btn-outline.mobile-btn {
     right: 28% !important;
 }
 }
+

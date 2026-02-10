@@ -719,8 +719,8 @@ span.dat_svg_sec {
 }
 
 .small-title {
-    color: #ff3b30;
-    font-size: 12px;
+    color:#d92626;
+    font-size: 14px;
     letter-spacing: 2px;
     margin-bottom: 10px;
 }
@@ -738,7 +738,7 @@ span.dat_svg_sec {
 }
 
 /* STATS */
-.stats {
+.statts {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 20px;

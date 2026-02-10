@@ -1193,7 +1193,7 @@ a.btn-outline.desktop-btn {
 
 section.testimonial_main {
     background: #f9f9f9;
-    padding: 40px 20px;
+    padding: 60px 20px;
 }
 /* Card Design */
 .testimonial-card {
@@ -1527,4 +1527,5 @@ a.btn-outline.mobile-btn {
     right: 28% !important;
 }
 }
+
 
